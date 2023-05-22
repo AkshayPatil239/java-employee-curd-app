@@ -1,0 +1,6 @@
+com\employee\exception\InvalidDetailsException.class
+com\employee\exception\EmployeeNotFoundException.class
+com\employee\model\Employee.class
+com\employee\service\IEmployeeDetails.class
+com\employee\client\Client.class
+com\employee\service\EmployeeDetails.class
